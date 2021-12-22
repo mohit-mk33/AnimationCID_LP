@@ -1,0 +1,1 @@
+[26-Jul-2021 10:30:16 Asia/Kolkata] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home/tgcindi/public_html/adwords/animation-course-in-delhi/contact-model.php on line 38
